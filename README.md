@@ -1,4 +1,4 @@
-# OCCULAR-DISEASE-RECOGNITION
+# OCULAR-DISEASE-RECOGNITION
 
 ## Description
 Eye defects in particular age-related eye defects is on the rise and this places burden on the health sector via the inaccessibility and unavailability of skilled professionals who can assist with their early diagnosis. The purpose of this model is to ease the detection of these eye disorder, enablin early detection and also providing a source of assisted information to healthcare practitioners who can then make use of the information provided by the model.
